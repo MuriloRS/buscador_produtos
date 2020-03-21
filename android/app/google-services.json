@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225192843273",
+    "firebase_url": "https://focus-champion-242222.firebaseio.com",
+    "project_id": "focus-champion-242222",
+    "storage_bucket": "focus-champion-242222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225192843273:android:f8eecbdd40088d799dc0d8",
+        "android_client_info": {
+          "package_name": "com.app.buscador_produtos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225192843273-ormdu8b6qj1lqt65ji69ijf9n6kisk9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.buscador_produtos",
+            "certificate_hash": "c2873e5a0f157925a9bd56877b15193ce456b0dc"
+          }
+        },
+        {
+          "client_id": "225192843273-40s0nlvggegcirec6glvbaul370ve9gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2X145kqgfOinS81WNFptp71l_8U6hdMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225192843273-40s0nlvggegcirec6glvbaul370ve9gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
